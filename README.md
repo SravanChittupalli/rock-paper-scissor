@@ -1,4 +1,4 @@
-# rock-paper-scissor
+# Rock-Paper-Scissor
 
 Aim of this project will be to detect whether the gesture shown is of a rock or a paper or a scissor
 
